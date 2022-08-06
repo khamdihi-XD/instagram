@@ -5,6 +5,8 @@ $ pkg install python
 
 $ pkg install git
 
+$ pip install rich
+
 $ git clone https://github.com/khamdihi-XD/Instagram
 
 $ cd instagram
